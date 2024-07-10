@@ -28,7 +28,7 @@ The Customer Portal allows users to:
 - **Cancel Bookings**: Cancel existing reservations.
 - **User Registration and Login**: Sign up for a new account or log in to an existing one.
 
-<img width="1671" alt="image" src="https://github.com/lydiaplu/lakeSide-hotel/assets/17155291/0c3abf7d-d342-4362-a162-e0fddea0e8d9">
+<img width="1617" alt="image" src="https://github.com/lydiaplu/lakeSide-hotel/assets/17155291/9f9c0cce-9e60-4dfd-b2e9-30de1253dda7">
 
 
 ### Admin Dashboard
