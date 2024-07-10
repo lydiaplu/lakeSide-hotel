@@ -28,9 +28,15 @@ The Customer Portal allows users to:
 - **Cancel Bookings**: Cancel existing reservations.
 - **User Registration and Login**: Sign up for a new account or log in to an existing one.
 
+<img width="1671" alt="image" src="https://github.com/lydiaplu/lakeSide-hotel/assets/17155291/0c3abf7d-d342-4362-a162-e0fddea0e8d9">
+
+
 ### Admin Dashboard
 
 The Admin Dashboard enables administrators to:
 - **Manage Hotels**: Add, edit, and delete hotel details.
 - **View Bookings**: Access booking information of all users.
 - **Assist Bookings**: Make and cancel bookings on behalf of customers.
+
+<img width="1587" alt="image" src="https://github.com/lydiaplu/lakeSide-hotel/assets/17155291/336eca96-6d82-4f54-a578-6bc704517365">
+
