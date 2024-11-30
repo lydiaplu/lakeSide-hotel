@@ -22,6 +22,7 @@ import java.util.List;
 
 @Component
 public class JwtUtils {
+    // 做日志记录，记录关于JwtUtils.class的日志
     private static final Logger logger = LoggerFactory.getLogger(JwtUtils.class);
 
     @Value("${auth.token.jwtSecret}")

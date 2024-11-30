@@ -31,7 +31,7 @@ public class HotelUserDetails implements UserDetails {
         List<GrantedAuthority> authorities = user.getRoles()
                 .stream()
                 .map(role -> new SimpleGrantedAuthority(role.getName()))
-                .collect(Collectors.toList());
+                .collect(Collectors.toList()); // 将流中的元素收集到一个 List 中
         return new HotelUserDetails(
                 user.getId(),
                 user.getEmail(),
